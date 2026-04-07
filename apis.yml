@@ -12,15 +12,15 @@ created: '2024-12-03'
 modified: '2026-03-16'
 specificationVersion: '0.19'
 tags:
+  - Environment
   - Federal Government
   - Pesticides
-  - Environment
 apis:
   - aid: national-pesticide-information-center:national-pesticide-information-center
     name: National Pesticide Information Center
     tags:
-      - Pesticides
       - Environment
+      - Pesticides
     humanURL: https://npic.orst.edu/
     properties:
       - url: https://npic.orst.edu/
