@@ -38,6 +38,8 @@ apis:
       - url: https://npic.orst.edu/about.html
         type: About
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-pesticide-information-center
   - type: Website
     url: https://npic.orst.edu/
   - type: Contact
