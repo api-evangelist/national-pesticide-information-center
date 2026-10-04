@@ -37,7 +37,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Environment
-  - Federal-Government
+  - Federal Government
   - Pesticides
   - Public Health
 tags_raw:
@@ -45,6 +45,7 @@ tags_raw:
   - Federal Government
   - Pesticides
   - Public Health
+  - Federal-Government
 apis:
   - aid: national-pesticide-information-center:national-pesticide-information-center
     name: National Pesticide Information Center
