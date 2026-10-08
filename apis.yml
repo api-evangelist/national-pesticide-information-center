@@ -67,6 +67,12 @@ apis:
       - url: https://npic.orst.edu/about.html
         type: About
 common:
+  - type: Plans
+    url: plans/national-pesticide-information-center-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/national-pesticide-information-center-rate-limits.yml
+  - type: FinOps
+    url: finops/national-pesticide-information-center-finops.yml
   - type: DomainSecurity
     url: security/national-pesticide-information-center-domain-security.yml
   - type: LinkedIn
